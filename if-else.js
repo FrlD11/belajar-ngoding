@@ -6,4 +6,5 @@ if (nilai >= 75 ) {
     console.log ('dasar tol*l');
 } else {
     console.log ('yah selamat mencoba lagi');
-}
+} 
+// wkwkwkwkwkwkk
